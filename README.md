@@ -1,2 +1,2 @@
-# DevOps-Practice_repo
+# Practice_repo
 This is for Educational Purpose
